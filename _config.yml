@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nathan A Jud / William Jewell College Paleobotany Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Nathan"
+description              : &description "I am a biologist interested in the history of plant evolution. Students in my lab primary work with plant fossils because the fossil record is a rich source of data on the morphology, anatomy, distribution, and associations of extinct plants; however, research projects are available for undergraduate students on a range of topics in taxonomy, organismal botany, paleontology, and (paleo)ecology."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PaleoNate/homepage.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
