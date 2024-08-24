@@ -3,7 +3,7 @@ title: "Anatomically preserved Todea from the Lower Cretaceous of western North 
 collection: publications
 category: manuscripts
 permalink: /publication/2008-03-01-Anatomically-preserved-Todea
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '<i>Todea tidwellii</i> is represented by a small trunk that consists of a branching stem with closely spaced, diverging frond bases and root traces.'
 date: 2008-03-01
 venue: 'American Journal of Botany'
 paperurl: 'http://academicpages.github.io/files/Judetal2008Todea.pdf'
