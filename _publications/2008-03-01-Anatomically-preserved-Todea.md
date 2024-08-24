@@ -6,7 +6,7 @@ permalink: /publication/2008-03-01-Anatomically-preserved-Todea
 excerpt: '<i>Todea tidwellii</i> is represented by a small trunk that consists of a branching stem with closely spaced, diverging frond bases and root traces.'
 date: 2008-03-01
 venue: 'American Journal of Botany'
-paperurl: 'http://academicpages.github.io/files/Judetal2008Todea.pdf'
+paperurl: 'https://paleonate.github.io/homepage.github.io/files/Judetal2008Todea.pdf'
 citation: 'Jud, N.A. Rothwell, G.W. and Stockey, R.A. (2009). &quot;Anatomically preserved Todea from the Lower Cretaceous of western North America: Implications for the Phylogeny of Osmundaceae.&quot; <i>American Journal of Botany</i>. 95(1):330–339.'
 ---
 
