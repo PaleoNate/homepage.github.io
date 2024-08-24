@@ -6,7 +6,7 @@ permalink: /publication/2008-03-01-Anatomically-preserved-Todea
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2008-03-01
 venue: 'American Journal of Botany'
-paperurl: 'http://academicpages.github.io/files/Jud et al 2008 Todea.pdf'
+paperurl: 'http://academicpages.github.io/files/Judetal2008Todea.pdf'
 citation: 'Jud, Nathan A. Rothwell, G.W. and Stockey, R.A. (2009). &quot;Anatomically preserved Todea from the Lower Cretaceous of western North America: Implications for the Phylogeny of Osmundaceae.&quot; <i>American Journal of Botany</i>. 95(1):330–339.'
 ---
 
