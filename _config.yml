@@ -21,10 +21,10 @@ repository               : "https://paleonate.github.io/homepage.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jud_in_the_field.jpg"
+  avatar           : "Nathan.png"
   name             : "Nathan"
   pronouns         : # example: "he/his"  
-  bio              : "Paleontology"
+  bio              : "Associate Professor of Plant Biology"
   location         : "Libery, MO  USA"
   employer         : "William Jewell College"
   uri              : # URL
